@@ -1,0 +1,2 @@
+recursive-include native_lottie *.dylib
+recursive-include native_lottie *.dll
