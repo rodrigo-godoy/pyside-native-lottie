@@ -1,2 +1,4 @@
 recursive-include native_lottie *.dylib
 recursive-include native_lottie *.dll
+include README.md
+include pyproject.toml
